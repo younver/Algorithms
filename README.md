@@ -5,3 +5,4 @@ Variable Sized Arrays: C++ | Solution of "Variable Sized Arrays" from Hackerrank
 Plus Minus: C++ | Solution function of "Plus Minus" from Hackerrank.<br>
 Staircase: C++ | Solution function of "Staircase" from Hackerrank.<br>
 Mini-Max Sum: C++ | Solution function of "Mini-Max Sum" from Hackerrank.<br>
+Birthday Cake Candles: C++ | Solution function of "Birthday Cake Candles" from Hackerrank. <br>
