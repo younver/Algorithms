@@ -5,7 +5,7 @@
  */
 
 void miniMaxSum(vector<int> arr) {
-    int64_t max = arr[0], min = arr[0], sum=0;
+    int64_t max = 0, min = 0, sum=0;
 
     // Input shape => Five positive integers 
     for(int i=0; i<5; i++)
