@@ -1,10 +1,18 @@
 /*
- * Complete the 'staircase' function below.
+ * Complete the 'miniMaxSum' function below.
  *
- * The function accepts INTEGER n as parameter.
+ * The function accepts INTEGER_ARRAY arr as parameter.
  */
 
-void staircase(int n) {
-    for(int i=1; i<=n;i++)
-        cout << string((n-i),' ') << string((i),'#') << endl;
+void miniMaxSum(vector<int> arr) {
+    int max = arr[0], min = arr[0], sum=0;
+
+    // Input shape => Five positive integers 
+    for(int i=0; i<5; i++)
+    {
+        sum+=arr[i];
+        if(arr[i] > max) max = arr[i];
+        if(arr[i] < min) min = arr[i];
+    }
+    cout << (sum-max) << ' ' << (sum-min);
 }
