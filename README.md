@@ -10,3 +10,4 @@ Designer PDF Viewer: C++ | Solution for [Designer PDF Viewer](https://www.hacker
 Time Conversion: C++ | Solution for [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) from Hackerrank. <br>
 Grading Students: C++ | Solution for [Grading Students](https://www.hackerrank.com/challenges/grading/problem) from Hackerrank. <br>
 Apple and Orange: C++ | Solution for [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) from Hackerrank. <br>
+Number Line Jumps: C++ | Solution for [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) from Hackerrank. <br>
