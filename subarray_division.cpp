@@ -11,9 +11,7 @@ int main(){
     
     scanf("%d", &n);
     
-    for(int i=0; i<n; i++){
-        scanf("%d", chocolate +i);
-    }
+    for(int i=0; i<n; i++) scanf("%d", chocolate +i);
     
     scanf("%d%d", &d, &m);
     
