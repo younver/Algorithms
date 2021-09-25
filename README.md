@@ -14,3 +14,4 @@
 (21.09.2021) C++ | [Solution](https://github.com/younver/hackerrank_solutions/blob/main/between_two_sets.cpp) for [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) from Hackerrank. <br>
 (21.09.2021) C++ | [Solution](https://github.com/younver/hackerrank_solutions/blob/main/breaking_the_records.cpp) for [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) from Hackerrank. <br>
 (23.09.2021) C++ | [Solution](https://github.com/younver/hackerrank_solutions/blob/main/subarray_division.cpp) for [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) from Hackerrank. <br>
+(25.09.2021) C++ | [Solution](https://github.com/younver/hackerrank_solutions/blob/main/electronics_shop.cpp) for [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) from Hackerrank.<br>
