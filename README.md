@@ -19,3 +19,4 @@
 (28.09.2021) C++ | Selection Sort [Algorithm](https://github.com/younver/Algorithms/blob/main/selection_sort.cpp)<br>
 (28.09.2021) C++ | Quake III's [Fast Inverse Square Root](https://github.com/younver/Algorithms/blob/main/q_rsqrt.cpp)<br>
 (28.09.2021) python | [Fizz Buzz](https://github.com/younver/Algorithms/blob/main/fizz_buzz.py) in one line (or so). <br>
+(28.09.2021) C++ | [Sieve of Eratosthenes](https://github.com/younver/Algorithms/blob/main/sieve_of_eratosthenes.py), the very optimized way to find primes. <br>
