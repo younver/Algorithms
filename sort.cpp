@@ -44,10 +44,7 @@ void bubbleSort() {
 
 		if (!swapped) break;
 	}
-	/*
-	for (int i : arr) {
-		printf("%d %d", i, *(1+&i));
-	}*/
+	
 }
 
 
