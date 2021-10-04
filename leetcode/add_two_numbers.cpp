@@ -17,7 +17,7 @@ public:
         ListNode* tail = &head; // pointer tail => address of head
 
         while (carry || l1 || l2) {
-            std::cout << l1->val << " AND " << l2->val << std::endl;
+            //std::cout << l1->val << " AND " << l2->val << std::endl;
 
             if (l1) {
                 carry += l1->val;
