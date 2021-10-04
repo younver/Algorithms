@@ -21,3 +21,4 @@
 (28.09.2021) python | [Fizz Buzz](https://github.com/younver/Algorithms/blob/main/fizz_buzz.py) in one line (or so). <br>
 (28.09.2021) C++ | [Sieve of Eratosthenes](https://github.com/younver/Algorithms/blob/main/sieve_of_eratosthenes.cpp), the very optimized way to find primes. <br>
 (29.09.2021) C++ | "Bubble Sort" and "Insertion Sort" added to [Sorting Algorithms](https://github.com/younver/Algorithms/blob/main/sort.cpp).<br>
+(04.10.2021) C++ | [Solution](https://github.com/younver/Algorithms/blob/main/leetcode/add_two_numbers.cpp) object for [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/) from LeetCode.
